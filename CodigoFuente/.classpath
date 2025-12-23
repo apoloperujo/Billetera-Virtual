@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="BilleteraVirtual1/src"/>
+	<classpathentry kind="lib" path="BilleteraVirtual1/lib/json-20240303.jar"/>
+	<classpathentry kind="lib" path="BilleteraVirtual1/lib/sqlite-jdbc-3.46.1.2.jar"/>
+	<classpathentry kind="output" path="BilleteraVirtual1/bin"/>
+</classpath>
